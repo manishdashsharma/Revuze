@@ -1,10 +1,10 @@
 import { Route, Routes } from 'react-router-dom';
-import Healthcheck from './Pages/ServerHealthStatus/ServerHealthStatus'
+import HomePage from './Pages/Home/HomePage';
 
 const App = () => {
   return (
     <Routes>
-      <Route path="/" element={<Healthcheck />} />
+      <Route path="/" element={<HomePage />} />
     </Routes>
   );
 };
