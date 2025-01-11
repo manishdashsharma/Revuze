@@ -1,7 +1,3 @@
-Here's a professional and clear **Code of Conduct** for your project:
-
----
-
 # **Code of Conduct**
 
 We are committed to fostering a welcoming and inclusive community. By participating in this project, you agree to abide by this **Code of Conduct**. This applies to all interactions within the repository, including issues, pull requests, discussions, and any other communication.
